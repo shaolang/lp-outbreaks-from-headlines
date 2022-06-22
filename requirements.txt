@@ -2,6 +2,6 @@ cartopy > 0
 geonamescache > 0
 matplotlib > 0
 notebook > 0          # jupyter notebook
-numpy == 1.18.4+mkl
+numpy == 1.22.0rc1
 pandas ~= 1.0
 text-unidecode > 0
